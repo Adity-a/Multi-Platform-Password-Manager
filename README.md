@@ -1,6 +1,9 @@
 # Multi-Platform Password Manager for Android
 
-![Platform](https://img.shields.io/badge/platform-Android-brightgreenhttps://img.shields.io/badge/platform-IOS)
+![Platform](https://img.shields.io/badge/platform-Android-brightgreen)
+![Platform](https://img.shields.io/badge/platform-iOS-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Linux-yellowgreen)
 
 A secure and easy-to-use password manager for multiple devices that keeps your digital life safe. Built with robust AES-256 encryption, biometric authentication, and secure backup options.
 

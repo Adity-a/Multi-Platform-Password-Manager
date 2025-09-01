@@ -93,4 +93,4 @@ Distributed under the AGPL-3.0 License. See `LICENSE.txt` for more information.
 
 ## 📧 Links
 
-Project Link: [https://github.com/Adity-a/PasswordManager](https://github.com/Adity-a/Multi-Platform-Password-Manager.git)
+Project Link: [https://github.com/Adity-a/Multi-Platform-Password-Manager](https://github.com/Adity-a/Multi-Platform-Password-Manager.git)
